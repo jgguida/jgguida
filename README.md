@@ -6,7 +6,7 @@ Dev / Datascientist Jr
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Guida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guida-788a96165/)](https://www.linkedin.com/in/jonathan-guida-788a96165/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.guida.oli@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathan.guida.oli@gmail.com)](mailto:jonathan.guida.oli@gmail.com)
 
-Enthusiast of data science, Power Bi, Java and coffee.
+Enthusiast of data science, Power Bi, Java and :coffee:.
 
 
 
