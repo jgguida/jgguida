@@ -7,10 +7,15 @@ Dev / Datascientist Jr
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.guida.oli@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathan.guida.oli@gmail.com)](mailto:jonathan.guida.oli@gmail.com)
 
 Enthusiast of data science, Power Bi, Java and :coffee:.
+<br>
+
+I am always trying to learn, grow and build, whether in projects or in my life.
 
 
+“The art of programming is to organize and master complexity. “
+Edsger W. Dijkstra
 
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
+
 
 <!--
 **jgguida/jgguida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
