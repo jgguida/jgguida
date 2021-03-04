@@ -1,6 +1,6 @@
 # Jonathan Guida
 
-Dev / Datascientist Jr
+Dev / Data engineer
 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Guida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guida-788a96165/)](https://www.linkedin.com/in/jonathan-guida-788a96165/) 
