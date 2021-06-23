@@ -6,7 +6,7 @@ Dev / Data engineer
 [![Linkedin Badge](https://img.shields.io/badge/-Jonathan%20Guida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-guida-788a96165/)](https://www.linkedin.com/in/jonathan-guida-788a96165/) 
 [![Gmail Badge](https://img.shields.io/badge/-jonathan.guida.oli@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathan.guida.oli@gmail.com)](mailto:jonathan.guida.oli@gmail.com)
 
-Enthusiast of data science, Power Bi, Java, C# and :coffee:.
+Enthusiast of data engineering, data science, Power Bi, Java, C#, python, Fedora and :coffee:.
 <br>
 
 I am always trying to learn, grow and build, whether in projects or in my life.
